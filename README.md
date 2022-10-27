@@ -1,3 +1,8 @@
+https://github.com/karlrupp/microprocessor-trend-data/blob/master/40yrs/cores.dat #원본 파일 링크
+https://github.com/karlrupp/microprocessor-trend-data/find/master
+https://dacon.io/codeshare/585
+https://namu.wiki/w/%EB%AC%B4%EC%96%B4%EC%9D%98%20%EB%B2%95%EC%B9%99#fn-1
+
 microprocessor-trend-data/40yr
 
 날짜,
